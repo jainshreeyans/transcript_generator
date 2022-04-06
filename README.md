@@ -1,1 +1,1 @@
-run program - streamlit run main.py
+To run program - streamlit run main.py
